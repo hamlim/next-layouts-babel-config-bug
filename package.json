@@ -1,0 +1,35 @@
+{
+  "name": "temp-debug-layouts-next-sep-23",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ds-pack/components": "^1.0.10",
+    "@ds-pack/use-refs": "^1.0.0",
+    "@vanilla-extract/css": "^1.9.1",
+    "@vanilla-extract/dynamic": "^2.0.2",
+    "@vanilla-extract/next-plugin": "^2.1.0",
+    "nanopop": "^2.2.0",
+    "next": "^12.3.2-canary.7",
+    "next-transpile-modules": "^9.0.0",
+    "rainbow-sprinkles": "^0.13.0",
+    "react": "^0.0.0-experimental-c1d414d75-20220923",
+    "react-dom": "^0.0.0-experimental-c1d414d75-20220923"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.18.10",
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.21",
+    "@vanilla-extract/babel-plugin": "^1.2.0",
+    "babel-plugin-transform-imports": "^2.0.0",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.1",
+    "polished": "^4.2.2",
+    "typescript": "4.8.3"
+  }
+}
