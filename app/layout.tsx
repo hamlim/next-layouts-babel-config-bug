@@ -1,14 +1,10 @@
-import { themeClass } from "@ds-pack/components"
-
 export default function Layout({children}) {
   return (
-    <html className={themeClass}>
+    <html>
       <head>
-        <title>Testing Layouts</title>
+        <title>Testing</title>
       </head>
-      <body>
-        {children}
-      </body>
+      <center>{children}</center>
     </html>
   )
 }
