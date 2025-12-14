@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.32",
+    "next": "^14.2.35",
     "react": "^0.0.0-experimental-cb5084d1c-20220924",
     "react-dom": "^0.0.0-experimental-cb5084d1c-20220924"
   },
